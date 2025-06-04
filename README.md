@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Prince 👋
 
-<!--
-**pryyyynz/pryyyynz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI/ML engineer from Ghana 🇬🇭 with experience in Computer Vision, Data Science and Visualisation, and LLM Engineering. 
+I love turning ideas into real-world tools!
 
-Here are some ideas to get you started:
+## 🏫 Education
+- 🎓 BSc Computer Science — University of Ghana  
+- First-class with and a number of academic awards 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m Learning
+- Wrapping AI systems into mobile apps
+- To be a better engineer
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/prince-dugboryele-990059215/)
+- [X](https://x.com/pryyyynz)
+- 📧 dugboryeleprince@gmail.com
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+
+---
+
+*“Turning dreams into code and code into impact.”*
