@@ -1,7 +1,7 @@
 # Hi there, I'm Prince 👋
 
 I'm an AI/ML engineer from Ghana 🇬🇭 with experience in Computer Vision, Data Science and Visualisation, and LLM Engineering. 
-I love turning ideas into real-world tools!
+- I love turning ideas into real-world tools!
 
 ## 🏫 Education
 - 🎓 BSc Computer Science — University of Ghana  
@@ -14,10 +14,10 @@ I love turning ideas into real-world tools!
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/prince-dugboryele-990059215/)
 - [X](https://x.com/pryyyynz)
-- 📧 dugboryeleprince@gmail.com
+- dugboryeleprince@gmail.com
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pryyyynz&show_icons=true&theme=github_dark)
 
 ---
 
